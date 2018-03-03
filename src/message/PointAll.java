@@ -79,6 +79,7 @@ public class PointAll {
 
 
         System.out.println("Длина сообщения = " + 80 * number);
+        System.out.println();
 
         System.out.println("Точка А имеет кординаты " + pointAxx + "." + pointAyy);
         System.out.println("Точка B имеет кординаты " + pointBxx + "." + pointByy);
